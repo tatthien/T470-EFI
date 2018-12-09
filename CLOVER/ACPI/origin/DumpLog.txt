@@ -1,0 +1,175 @@
+15:646  0:769  Found BIOS RSDP at F0140
+15:646  0:000  Printing ACPI tables from RSDP F0140 ...
+15:646  0:000   F0140: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+15:646  0:000    (Xsdt: 7B5C1188, Rsdt: 7B5C10C4)
+15:646  0:000    7B5C1188: 'XSDT', 'TP-N1Q', Rev: 1, Len: 244
+15:646  0:000    7B5C10C4: 'RSDT', 'TP-N1Q', Rev: 1, Len: 140
+15:647  0:000    Tables in Xsdt: 26
+15:647  0:000    0. 7B5F5000: 'FACP', 'TP-N1Q', Rev: 5, Len: 244
+15:647  0:000        (Dsdt: 7B5CF000, Facs: 7B53D000, XDsdt: 7B5CF000, XFacs: 0)
+15:647  0:000        7B5CF000: 'DSDT', 'SKL', Rev: 2, Len: 135531
+15:651  0:004        7B53D000: 'FACS', Ver: 2, Len: 64
+15:651  0:000    1. 7B5FC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+15:651  0:000    2. 7B5FB000: 'TPM2', 'TP-N1Q', Rev: 3, Len: 52
+15:651  0:000    3. 7B553000: 'UEFI', 'TP-N1Q', Rev: 1, Len: 66
+15:651  0:000    4. 7B5F7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12464
+15:651  0:000    5. 7B5F6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+15:651  0:000    6. 7B5F4000: 'HPET', 'TP-N1Q', Rev: 1, Len: 56
+15:651  0:000    7. 7B5F3000: 'APIC', 'TP-N1Q', Rev: 3, Len: 188
+15:651  0:000    8. 7B5F2000: 'MCFG', 'TP-N1Q', Rev: 1, Len: 60
+15:651  0:000    9. 7B5F1000: 'ECDT', 'TP-N1Q', Rev: 1, Len: 83
+15:651  0:000    10. 7B5CE000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 540
+15:651  0:000    11. 7B5CC000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5967
+15:651  0:000    12. 7B5CB000: 'BOOT', 'TP-N1Q', Rev: 1, Len: 40
+15:651  0:000    13. 7B5CA000: 'BATB', 'TP-N1Q', Rev: 2, Len: 74
+15:651  0:000    14. 7B5C8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+15:651  0:000    15. 7B5C7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+15:651  0:000    16. 7B5C6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+15:651  0:000    17. 7B5C5000: 'WSMT', 'TP-N1Q', Rev: 1, Len: 40
+15:651  0:000    18. 7B5C4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+15:651  0:000    19. 7B5C3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+15:651  0:000    20. 7B5C2000: 'DBGP', 'TP-N1Q', Rev: 1, Len: 52
+15:651  0:000    21. 7B5FD000: 'DBG2', 'TP-N1Q', Rev: 0, Len: 84
+15:651  0:000    22. 7B5C0000: 'POAT', 'TP-N1Q', Rev: 3, Len: 85
+15:651  0:000    23. 7B5BF000: 'ASF!', 'TP-N1Q', Rev: 32, Len: 160
+15:651  0:000    24. 7B5BE000: 'FPDT', 'TP-N1Q', Rev: 1, Len: 68
+15:651  0:000    25. 7B53A000: 'UEFI', 'TP-N1Q', Rev: 1, Len: 318
+15:651  0:000    Tables in Rsdt: 26
+15:651  0:000    0. 7B5F5000: 'FACP', 'TP-N1Q', Rev: 5, Len: 244
+15:651  0:000        (Dsdt: 7B5CF000, Facs: 7B53D000, XDsdt: 7B5CF000, XFacs: 0)
+15:651  0:000        7B5CF000: 'DSDT', 'SKL', Rev: 2, Len: 135531
+15:656  0:004        7B53D000: 'FACS', Ver: 2, Len: 64
+15:656  0:000    1. 7B5FC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+15:656  0:000    2. 7B5FB000: 'TPM2', 'TP-N1Q', Rev: 3, Len: 52
+15:656  0:000    3. 7B553000: 'UEFI', 'TP-N1Q', Rev: 1, Len: 66
+15:656  0:000    4. 7B5F7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12464
+15:656  0:000    5. 7B5F6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+15:656  0:000    6. 7B5F4000: 'HPET', 'TP-N1Q', Rev: 1, Len: 56
+15:656  0:000    7. 7B5F3000: 'APIC', 'TP-N1Q', Rev: 3, Len: 188
+15:656  0:000    8. 7B5F2000: 'MCFG', 'TP-N1Q', Rev: 1, Len: 60
+15:656  0:000    9. 7B5F1000: 'ECDT', 'TP-N1Q', Rev: 1, Len: 83
+15:656  0:000    10. 7B5CE000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 540
+15:656  0:000    11. 7B5CC000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5967
+15:656  0:000    12. 7B5CB000: 'BOOT', 'TP-N1Q', Rev: 1, Len: 40
+15:656  0:000    13. 7B5CA000: 'BATB', 'TP-N1Q', Rev: 2, Len: 74
+15:656  0:000    14. 7B5C8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+15:656  0:000    15. 7B5C7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+15:656  0:000    16. 7B5C6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+15:656  0:000    17. 7B5C5000: 'WSMT', 'TP-N1Q', Rev: 1, Len: 40
+15:656  0:000    18. 7B5C4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+15:656  0:000    19. 7B5C3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+15:656  0:000    20. 7B5C2000: 'DBGP', 'TP-N1Q', Rev: 1, Len: 52
+15:656  0:000    21. 7B5FD000: 'DBG2', 'TP-N1Q', Rev: 0, Len: 84
+15:656  0:000    22. 7B5C0000: 'POAT', 'TP-N1Q', Rev: 3, Len: 85
+15:656  0:000    23. 7B5BF000: 'ASF!', 'TP-N1Q', Rev: 32, Len: 160
+15:656  0:000    24. 7B5BE000: 'FPDT', 'TP-N1Q', Rev: 1, Len: 68
+15:656  0:000    25. 7B53A000: 'UEFI', 'TP-N1Q', Rev: 1, Len: 318
+15:656  0:000  Found UEFI Acpi 2.0 RSDP at 7B5FE014
+15:656  0:000  Saving ACPI tables from RSDP 7B5FE014 to EFI\CLOVER\ACPI\origin ...
+15:656  0:000   7B5FE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+15:663  0:007    (Xsdt: 7B5C1188, Rsdt: 7B5C10C4)
+15:663  0:000    7B5C1188: 'XSDT', 'TP-N1Q', Rev: 1, Len: 244 -> XSDT.aml
+15:668  0:004    7B5C10C4: 'RSDT', 'TP-N1Q', Rev: 1, Len: 140 -> RSDT.aml
+15:673  0:005    Tables in Xsdt: 26
+15:673  0:000    0. 7B5F5000: 'FACP', 'TP-N1Q', Rev: 5, Len: 244 -> FACP.aml
+15:678  0:005        (Dsdt: 7B5CF000, Facs: 7B53D000, XDsdt: 7B5CF000, XFacs: 0)
+15:678  0:000        7B5CF000: 'DSDT', 'SKL', Rev: 2, Len: 135531 -> DSDT.aml
+15:690  0:011        7B53D000: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+15:695  0:005    1. 7B5FC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972 -> SSDT-0-Tpm2Tabl.aml
+15:700  0:005    2. 7B5FB000: 'TPM2', 'TP-N1Q', Rev: 3, Len: 52 -> TPM2.aml
+15:705  0:005    3. 7B553000: 'UEFI', 'TP-N1Q', Rev: 1, Len: 66 -> UEFI.aml
+15:710  0:004    4. 7B5F7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12464 -> SSDT-1-SaSsdt.aml
+15:715  0:005    5. 7B5F6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462 -> SSDT-2-PerfTune.aml
+15:721  0:006    6. 7B5F4000: 'HPET', 'TP-N1Q', Rev: 1, Len: 56 -> HPET.aml
+15:727  0:005    7. 7B5F3000: 'APIC', 'TP-N1Q', Rev: 3, Len: 188 -> APIC.aml
+15:732  0:005    8. 7B5F2000: 'MCFG', 'TP-N1Q', Rev: 1, Len: 60 -> MCFG.aml
+15:737  0:005    9. 7B5F1000: 'ECDT', 'TP-N1Q', Rev: 1, Len: 83 -> ECDT.aml
+15:742  0:005    10. 7B5CE000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 540 -> SSDT-3-Rmv_Batt.aml
+15:748  0:005    11. 7B5CC000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5967 -> SSDT-4-ProjSsdt.aml
+15:753  0:005    12. 7B5CB000: 'BOOT', 'TP-N1Q', Rev: 1, Len: 40 -> BOOT.aml
+15:758  0:005    13. 7B5CA000: 'BATB', 'TP-N1Q', Rev: 2, Len: 74 -> BATB.aml
+15:763  0:005    14. 7B5C8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062 -> SSDT-5-CpuSsdt.aml (Found hidden SSDT 7 pcs)
+15:769  0:005        * 7B52C098: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1650  53 53 44 54 72 06 00 00 02 DC 50 6D 52 65 66 00 Internal length = 1650 -> SSDT-x5_0-Cpu0Ist.aml
+15:774  0:005        * 7B4D2018: 'SSDT', 'ApIst', Rev: 2, Len: 3348  53 53 44 54 14 0D 00 00 02 2A 50 6D 52 65 66 00 Internal length = 3348 -> SSDT-x5_1-ApIst.aml
+15:780  0:005        * 7B4D3698: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 1023  53 53 44 54 FF 03 00 00 02 11 50 6D 52 65 66 00 Internal length = 1023 -> SSDT-x5_2-Cpu0Cst.aml
+15:785  0:005        * 7B4D1018: 'SSDT', 'ApCst', Rev: 2, Len: 778  53 53 44 54 0A 03 00 00 02 93 50 6D 52 65 66 00 Internal length = 778 -> SSDT-x5_3-ApCst.aml
+15:790  0:005        * 7B52CB18: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 186  53 53 44 54 BA 00 00 00 02 7D 50 6D 52 65 66 00 Internal length = 186 -> SSDT-x5_4-Cpu0Hwp.aml
+15:796  0:005        * 7B4D1418: 'SSDT', 'ApHwp', Rev: 2, Len: 791  53 53 44 54 17 03 00 00 02 80 50 6D 52 65 66 00 Internal length = 791 -> SSDT-x5_5-ApHwp.aml
+15:801  0:005        * 7B4D3018: 'SSDT', 'HwpLvt', Rev: 2, Len: 1576  53 53 44 54 28 06 00 00 02 85 50 6D 52 65 66 00 Internal length = 1576 -> SSDT-x5_6-HwpLvt.aml
+15:806  0:005  
+15:806  0:000    15. 7B5C7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389 -> SSDT-6-CtdpB.aml
+15:811  0:005    16. 7B5C6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588 -> SSDT-7-UsbCTabl.aml
+15:817  0:005    17. 7B5C5000: 'WSMT', 'TP-N1Q', Rev: 1, Len: 40 -> WSMT.aml
+15:822  0:005    18. 7B5C4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321 -> SSDT-8-HdaDsp.aml
+15:827  0:005    19. 7B5C3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221 -> SSDT-9-TbtTypeC.aml
+15:833  0:005    20. 7B5C2000: 'DBGP', 'TP-N1Q', Rev: 1, Len: 52 -> DBGP.aml
+15:838  0:005    21. 7B5FD000: 'DBG2', 'TP-N1Q', Rev: 0, Len: 84 -> DBG2.aml
+15:843  0:005    22. 7B5C0000: 'POAT', 'TP-N1Q', Rev: 3, Len: 85 -> POAT.aml
+15:848  0:005    23. 7B5BF000: 'ASF!', 'TP-N1Q', Rev: 32, Len: 160 -> ASF!.aml
+15:854  0:005    24. 7B5BE000: 'FPDT', 'TP-N1Q', Rev: 1, Len: 68 -> FPDT.aml
+15:859  0:005    25. 7B53A000: 'UEFI', 'TP-N1Q', Rev: 1, Len: 318 -> UEFI.aml
+15:866  0:007    Tables in Rsdt: 26
+15:866  0:000    0. 7B5F5000: 'FACP', 'TP-N1Q', Rev: 5, Len: 244
+15:866  0:000        (Dsdt: 7B5CF000, Facs: 7B53D000, XDsdt: 7B5CF000, XFacs: 0)
+15:866  0:000        7B5CF000: 'DSDT', 'SKL', Rev: 2, Len: 135531
+15:871  0:004        7B53D000: 'FACS', Ver: 2, Len: 64
+15:871  0:000    1. 7B5FC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+15:871  0:000    2. 7B5FB000: 'TPM2', 'TP-N1Q', Rev: 3, Len: 52
+15:871  0:000    3. 7B553000: 'UEFI', 'TP-N1Q', Rev: 1, Len: 66
+15:871  0:000    4. 7B5F7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12464
+15:871  0:000    5. 7B5F6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+15:871  0:000    6. 7B5F4000: 'HPET', 'TP-N1Q', Rev: 1, Len: 56
+15:871  0:000    7. 7B5F3000: 'APIC', 'TP-N1Q', Rev: 3, Len: 188
+15:871  0:000    8. 7B5F2000: 'MCFG', 'TP-N1Q', Rev: 1, Len: 60
+15:871  0:000    9. 7B5F1000: 'ECDT', 'TP-N1Q', Rev: 1, Len: 83
+15:871  0:000    10. 7B5CE000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 540
+15:871  0:000    11. 7B5CC000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5967
+15:871  0:000    12. 7B5CB000: 'BOOT', 'TP-N1Q', Rev: 1, Len: 40
+15:871  0:000    13. 7B5CA000: 'BATB', 'TP-N1Q', Rev: 2, Len: 74
+15:871  0:000    14. 7B5C8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+15:871  0:000    15. 7B5C7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+15:871  0:000    16. 7B5C6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+15:871  0:000    17. 7B5C5000: 'WSMT', 'TP-N1Q', Rev: 1, Len: 40
+15:871  0:000    18. 7B5C4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+15:871  0:000    19. 7B5C3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+15:871  0:000    20. 7B5C2000: 'DBGP', 'TP-N1Q', Rev: 1, Len: 52
+15:871  0:000    21. 7B5FD000: 'DBG2', 'TP-N1Q', Rev: 0, Len: 84
+15:871  0:000    22. 7B5C0000: 'POAT', 'TP-N1Q', Rev: 3, Len: 85
+15:871  0:000    23. 7B5BF000: 'ASF!', 'TP-N1Q', Rev: 32, Len: 160
+15:871  0:000    24. 7B5BE000: 'FPDT', 'TP-N1Q', Rev: 1, Len: 68
+15:871  0:000    25. 7B53A000: 'UEFI', 'TP-N1Q', Rev: 1, Len: 318
+15:871  0:000  Found UEFI Acpi 1.0 RSDP at 7B5FE000
+15:871  0:000  Printing ACPI tables from RSDP 7B5FE000 ...
+15:871  0:000   7B5FE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+15:871  0:000    (Rsdt: 7B5C1000)
+15:871  0:000    7B5C1000: 'RSDT', 'TP-N1Q', Rev: 1, Len: 140
+15:871  0:000    Tables in Rsdt: 26
+15:871  0:000    0. 7B5F5000: 'FACP', 'TP-N1Q', Rev: 5, Len: 244
+15:871  0:000        (Dsdt: 7B5CF000, Facs: 7B53D000, XDsdt: 7B5CF000, XFacs: 0)
+15:871  0:000        7B5CF000: 'DSDT', 'SKL', Rev: 2, Len: 135531
+15:876  0:004        7B53D000: 'FACS', Ver: 2, Len: 64
+15:876  0:000    1. 7B5FC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+15:876  0:000    2. 7B5FB000: 'TPM2', 'TP-N1Q', Rev: 3, Len: 52
+15:876  0:000    3. 7B553000: 'UEFI', 'TP-N1Q', Rev: 1, Len: 66
+15:876  0:000    4. 7B5F7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12464
+15:876  0:000    5. 7B5F6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+15:876  0:000    6. 7B5F4000: 'HPET', 'TP-N1Q', Rev: 1, Len: 56
+15:876  0:000    7. 7B5F3000: 'APIC', 'TP-N1Q', Rev: 3, Len: 188
+15:876  0:000    8. 7B5F2000: 'MCFG', 'TP-N1Q', Rev: 1, Len: 60
+15:876  0:000    9. 7B5F1000: 'ECDT', 'TP-N1Q', Rev: 1, Len: 83
+15:876  0:000    10. 7B5CE000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 540
+15:876  0:000    11. 7B5CC000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5967
+15:876  0:000    12. 7B5CB000: 'BOOT', 'TP-N1Q', Rev: 1, Len: 40
+15:876  0:000    13. 7B5CA000: 'BATB', 'TP-N1Q', Rev: 2, Len: 74
+15:876  0:000    14. 7B5C8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+15:876  0:000    15. 7B5C7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+15:876  0:000    16. 7B5C6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+15:876  0:000    17. 7B5C5000: 'WSMT', 'TP-N1Q', Rev: 1, Len: 40
+15:876  0:000    18. 7B5C4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+15:876  0:000    19. 7B5C3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+15:876  0:000    20. 7B5C2000: 'DBGP', 'TP-N1Q', Rev: 1, Len: 52
+15:876  0:000    21. 7B5FD000: 'DBG2', 'TP-N1Q', Rev: 0, Len: 84
+15:876  0:000    22. 7B5C0000: 'POAT', 'TP-N1Q', Rev: 3, Len: 85
+15:876  0:000    23. 7B5BF000: 'ASF!', 'TP-N1Q', Rev: 32, Len: 160
+15:876  0:000    24. 7B5BE000: 'FPDT', 'TP-N1Q', Rev: 1, Len: 68
+15:876  0:000    25. 7B53A000: 'UEFI', 'TP-N1Q', Rev: 1, Len: 318
